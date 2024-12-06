@@ -151,7 +151,7 @@ print("Hello, World!")
 
 <br />
 
-### Imports
+### ✦ Imports
 
 Let's start coding!
 
