@@ -44,8 +44,8 @@ For LazyHacks 2024
 
 ![bg left:48% height:5in](images/profile-picture.jpg)
 
-- 3rd Year Carleton University Computer Science Student
-- Bachelor of Computer Science Student
+- 3rd year Carleton University Computer Science student
+- Worked at a startup and at a bank
 - Interested in large-scale systems
 
 ---
